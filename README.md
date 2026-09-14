@@ -1,2 +1,1 @@
-# BTLedAVR.
 # BTLedAVR
