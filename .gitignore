@@ -1,0 +1,10 @@
+!/.gitignore
+.*
+*.o
+*.eep
+*.hex
+*.d
+*.map
+*.elf
+*.srec
+*.lss
